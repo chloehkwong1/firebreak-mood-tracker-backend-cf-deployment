@@ -1,0 +1,8 @@
+---
+applications:
+- name: firebreak-mood-tracker-api-dev
+  memory: 64M
+
+  buildpacks:
+  - https://github.com/cloudfoundry/python-buildpack.git
+  
