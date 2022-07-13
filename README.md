@@ -1,7 +1,7 @@
 # firebreak-mood-tracker-backend-cf-deployment
 ## To run: 
 Start up a virtual environment. I use pipenv.
-### cp sample.env backend/.env
+### `cp sample.env backend/.env`
 Change the environment variables accordingly.
 ### `pipenv shell`
 ### `pipenv install`
