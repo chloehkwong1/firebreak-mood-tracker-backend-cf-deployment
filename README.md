@@ -6,7 +6,7 @@ Change the environment variables accordingly.
 ### `pipenv shell`
 ### `pipenv install`
 ### `python manage.py migrate`
-### `python manage.py run server`
+### `python manage.py runserver`
 
 ## To deploy:
 ### Set environment variables with `cf set-env <APP_NAME> <VARIABLE_NAME> <VARIABLE_VALUE>`
